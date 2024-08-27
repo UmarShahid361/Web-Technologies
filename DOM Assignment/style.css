@@ -1,0 +1,10 @@
+.outerBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#Picture {
+    border-radius: 30px;
+}
